@@ -49,6 +49,7 @@ import qualified Duckling.Time.NL.BE.Corpus as NL_BETime
 import qualified Duckling.Time.PL.Corpus as PLTime
 import qualified Duckling.Time.PT.Corpus as PTTime
 import qualified Duckling.Time.RO.Corpus as ROTime
+import qualified Duckling.Time.RU.Corpus as RUTime
 import qualified Duckling.Time.SV.Corpus as SVTime
 import qualified Duckling.Time.UK.Corpus as UKTime
 import qualified Duckling.Time.VI.Corpus as VITime
